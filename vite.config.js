@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/thembi-portfolio/',   // must match repo name
-  build: { outDir: 'dist' }
+  base: '/thembi-portfolio/', // 👈 IMPORTANT — must match your repo name
+  build: {
+    outDir: 'dist'
+  }
 })
