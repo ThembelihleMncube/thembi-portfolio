@@ -68,20 +68,6 @@ const PROJECTS = [
       "Feature selection (ρ>0.8 threshold), cross-validation, and interpretability via coefficients. Benchmarked accuracy and AUC.",
     link: "#",
   },
-  {
-    title: "SmartQueue — AI Queue Management",
-    badges: ["IoT", "Computer Vision", "FastAPI"],
-    description:
-      "EDHE ABSA innovation concept: branch traffic analytics, SLA alerts, and priority handling for accessibility.",
-    link: "#",
-  },
-  {
-    title: "Voice-Activated Banking (Accessibility)",
-    badges: ["NLP", "ASR", "Security"],
-    description:
-      "Inclusive banking assistant for elderly/visually impaired users with secure, guided transactions.",
-    link: "#",
-  },
 ];
 
 const EDUCATION = [
